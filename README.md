@@ -13,3 +13,9 @@ https://s3.amazonaws.com/tripdata/index.html
 
 You could load original data following the way as 201604,201605...201612.
 
+## The directory of codes and data
+
+You could download this directory to run without redownloading data.
+
+https://drive.google.com/open?id=1hs6ZbEsYFDYq3F_U_8pOeZncUPHXIBJd
+
